@@ -160,14 +160,15 @@ As imagens reforçam e comprovam cada etapa descrita acima.
 
 * `README.md` – Este documento
 * `/images` – Pasta contendo as 16 capturas de tela (não incluídas aqui)
-* Algorithm       Hash                                                                   Path
----------       ----                                                                   ----
-SHA256          0AC0FB1094F717F9455BB6C5775EF7261A759CD918C3CB81ED1EF5D7CAD4B693       P:\Users\*****\Pictures\images.zip
 
+## Verificação de Integridade dos Arquivos
 
-Algorithm       Hash                                                                   Path
----------       ----                                                                   ----
-MD5             DF997E7547B4B1B7FEFA524E1F87FB2F                                       P:\Users\*****\Pictures\images.zip
+Para garantir a integridade e autenticidade do arquivo utilizado na documentação, seguem os hashes calculados:
+
+| Algoritmo | Hash                                                                 | Arquivo / Caminho                         |
+|-----------|----------------------------------------------------------------------|--------------------------------------------|
+| MD5       | `DF997E7547B4B1B7FEFA524E1F87FB2F`                                   | `P:\Users\*****\Pictures\images.zip`       |
+| SHA-256   | `0AC0FB1094F717F9455BB6C5775EF7261A759CD918C3CB81ED1EF5D7CAD4B693`   | `P:\Users\*****\Pictures\images.zip`       |
 
 
 
