@@ -25,6 +25,8 @@ O objetivo principal foi compreender:
 - Interface de captura: `eth1`  
 
 ---
+<img width="1357" height="763" alt="1" src="https://github.com/user-attachments/assets/6109913e-2528-4c06-a5fb-94af0479159b" />
+
 
 ## 🔍 Metodologia
 
@@ -99,7 +101,8 @@ Em seguida, no Wireshark, filtrei:
 
 <img width="1353" height="757" alt="16" src="https://github.com/user-attachments/assets/fd7ccd91-355f-43cb-bd2d-114f397384b1" />
 
-O pacote com o SNI não originou-se do IP 3.166.160.90, isso indica que cada servidor tem uma responsabilidade delegada ---> Infraestrutura Loading Balancing (ILD) 
+O pacote com o SNI não originou-se do IP 3.166.160.90, isso indica que cada servidor tem uma responsabilidade delegada ---> Infraestrutura Loading Balancing (ILD).
+
 Tentei outro filtro para ser mais direto.
 
 <img width="1354" height="761" alt="15" src="https://github.com/user-attachments/assets/e71458d4-1c42-4dd0-96d6-b88091725f4a" />
