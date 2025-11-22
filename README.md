@@ -9,18 +9,18 @@ Este projeto tem como objetivo analisar de forma prática e detalhada como o tr�
 
 O objetivo principal foi compreender:
 
-1. Como o tráfego DNS é transmitido sem DoH**, de forma tradicional, via UDP/53.
-2. Como o tráfego DNS se altera com DoH ativado**, sendo encapsulado em conexões HTTPS (porta TCP 443).
-3. Como identificar e analisar essas diferenças usando ferramentas de captura de pacotes**.
-4. Como o navegador lida com consultas DNS e com o uso de resolvers HTTPS (DoH)**.
-5. Evidências práticas** obtidas por meio das capturas e filtros aplicados.
+1. Como o tráfego DNS é transmitido sem DoH, de forma tradicional, via UDP/53.
+2. Como o tráfego DNS se altera com DoH ativado, sendo encapsulado em conexões HTTPS (porta TCP 443).
+3. Como identificar e analisar essas diferenças usando ferramentas de captura de pacotes.
+4. Como o navegador lida com consultas DNS e com o uso de resolvers HTTPS (DoH).
+5. Evidências práticas obtidas por meio das capturas e filtros aplicados.
 
 ---
 
 ## 🛠️ Ambiente utilizado
 
-- Sistema operacional:** Kali Linux  
-- Ferramentas de rede:** tcpdump, Wireshark, nslookup  
+- Sistema operacional: Kali Linux  
+- Ferramentas de rede: tcpdump, Wireshark, nslookup  
 - Navegador: Mozilla Firefox (DNS over HTTPS habilitado no modo *Max Protection*)  
 - Interface de captura: `eth1`  
 
